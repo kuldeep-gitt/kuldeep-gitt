@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kuldeep-giit.kuldeep-gitt
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kuldeep-giit.kuldeep-gitt" />
 
 <div align="center"> 
   <a href="mailto:pedro.sales.muniz@gmail.com">
