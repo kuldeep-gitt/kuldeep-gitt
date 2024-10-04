@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning ** Security Analyst., Governance, Risk, and Compliance (GRC), bug bounty , AWS**
 
-💬 Ask me about **c++, python, html, css, javascript... or anything [here](https://github.com/kuldeep-gitt/kuldeep-gitt/issues)**
+💬 Ask me about **c++, python, html, bootstrap, sql, css, javascript... or anything [here](https://github.com/kuldeep-gitt/kuldeep-gitt/issues)**
 
 
  </div>
@@ -36,8 +36,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,bootstrap,c++,html,css,vscode,github,git,sql" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,bootstrap,c++,html,css,vscode,github,git,sql" /><br>
 </div>
 
 <br/>
