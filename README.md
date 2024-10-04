@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning ** Security Analyst., Governance, Risk, and Compliance (GRC), bug bounty , AWS**
 
-💬 Ask me about **c++, python, html, html, css, javascript... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **c++, python, html, css, javascript... or anything [here](https://github.com/kuldeep-gitt/kuldeep-gitt/issues)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
