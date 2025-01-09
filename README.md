@@ -37,6 +37,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,javascript,bootstrap,c++,html,css,vscode,github,git,sql,linux command line,nmaptool" /><br>
+     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Nmap-logo.svg" alt="Nmap" height="40px"/>
 </div>
 
 <br/>
