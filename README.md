@@ -36,7 +36,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-     <img src="https://skill-icons.parzival.space/icons?i=python,javascript,bootstrap,c++,html,css,vscode,github,git,sql,linux command line,kali,ubuntu" /><br>
+     <img src="https://skill-icons.parzival.space/icons?i=python,javascript,bootstrap,c++,html,css,vscode,github,git,sql,linux command line" /><br>
+     <img src="https://skill-icons.parzival.space/icons?i=kali,ubuntu,johntheripper,metasploit,burpsuite,owasp,activedirectorybasics,hydra,hashcat,gobuster,wpscan,nikto,netcat" /><br>
 </div>
 
 <br/>
