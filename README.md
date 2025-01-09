@@ -38,6 +38,7 @@
 <div align="center">
      <img src="https://skill-icons.parzival.space/icons?i=python,javascript,bootstrap,c++,html,css,vscode,github,git,sql,linux command line" /><br>
      <img src="https://skill-icons.parzival.space/icons?i=kali,ubuntu" /><br>
+     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" /><br>
 </div>
 
 <br/>
