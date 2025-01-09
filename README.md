@@ -37,7 +37,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,javascript,bootstrap,c++,html,css,vscode,github,git,sql,linux command line,nmaptool" /><br>
-    <img src="https://skill-icons.parzival.space/icons?i=kali,ubuntu" /><br>
+    <img src="https://skill-icons.parzival.space/icons?i=kali,ubuntu"/><br>
 </div>
 
 <br/>
